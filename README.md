@@ -1,2 +1,2 @@
-# http://jatek.github.io/repository
+# http://jatek.github.io
 Jatek site 
